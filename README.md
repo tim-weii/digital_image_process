@@ -2,6 +2,10 @@
 在開始前先來看看最後成果長怎樣吧 ! 
 https://github.com/tim-weii/digital_image_process/assets/66638719/0d50a72f-49f9-48c4-bf56-aaa199b4aa49
 
+
+https://github.com/tim-weii/digital_image_process/assets/66638719/19b15ecd-e0de-4eef-985c-2c041d2ac295.mp4
+
+
 這邊是原本的影像
 https://github.com/tim-weii/digital_image_process/assets/66638719/f0b835ab-0a59-4524-a7c3-7af19fe08e61
 
