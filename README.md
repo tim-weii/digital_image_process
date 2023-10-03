@@ -1,5 +1,10 @@
 # digital_image_process
-that's my final project in digital image process
+在開始前先來看看最後成果長怎樣吧 ! 
+https://github.com/tim-weii/digital_image_process/assets/66638719/0d50a72f-49f9-48c4-bf56-aaa199b4aa49
+
+這邊是原本的影像
+https://github.com/tim-weii/digital_image_process/assets/66638719/f0b835ab-0a59-4524-a7c3-7af19fe08e61
+
 ![image](https://github.com/tim-weii/digital_image_process/assets/66638719/893761fd-c72f-4eca-8934-12504c9bce9e)
 ![image](https://github.com/tim-weii/digital_image_process/assets/66638719/546fc2a6-7266-4f08-91fa-566367448743)
 ![image](https://github.com/tim-weii/digital_image_process/assets/66638719/62bb5353-e0a0-4fe5-ae57-64d61fd4fbcf)
