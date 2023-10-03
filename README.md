@@ -1,13 +1,10 @@
 # digital_image_process
 在開始前先來看看最後成果長怎樣吧 ! 
-https://github.com/tim-weii/digital_image_process/assets/66638719/0d50a72f-49f9-48c4-bf56-aaa199b4aa49
-
-
 https://github.com/tim-weii/digital_image_process/assets/66638719/19b15ecd-e0de-4eef-985c-2c041d2ac295.mp4
 
 
 這邊是原本的影像
-https://github.com/tim-weii/digital_image_process/assets/66638719/f0b835ab-0a59-4524-a7c3-7af19fe08e61
+https://github.com/tim-weii/digital_image_process/assets/66638719/f0b835ab-0a59-4524-a7c3-7af19fe08e61.mp4
 
 ![image](https://github.com/tim-weii/digital_image_process/assets/66638719/893761fd-c72f-4eca-8934-12504c9bce9e)
 ![image](https://github.com/tim-weii/digital_image_process/assets/66638719/546fc2a6-7266-4f08-91fa-566367448743)
