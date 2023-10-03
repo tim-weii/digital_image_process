@@ -3,6 +3,9 @@
 
 https://github.com/tim-weii/digital_image_process/assets/66638719/19b15ecd-e0de-4eef-985c-2c041d2ac295.mp4
 
+** 藍色 : 辨識小型車 **
+** 黃色 : 辨識車道**
+** 粉紅色 : 是辨識目前是否和前車保持安全距離 **
 
 這邊是原本的影像
 
