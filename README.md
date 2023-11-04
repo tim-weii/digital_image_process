@@ -1,5 +1,5 @@
 # digital_image_process
-在開始前先來看看最後成果長怎樣吧 ! 
+最後成果
 
 https://github.com/tim-weii/digital_image_process/assets/66638719/19b15ecd-e0de-4eef-985c-2c041d2ac295.mp4
 
